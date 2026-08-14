@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://marcileneramiro.netlify.app/sitemap.xml
